@@ -1,2 +1,2 @@
-# Sistemas-Embarcados-STM32
-Códigos desenvolvidos para o microcontrolador STM32F411 para a disciplina de Sistemas Embarcados I
+# Embedded-Systems-STM32 
+STM32F411 Microcontroller codes developed for Embedded Systems I subject.
